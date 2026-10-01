@@ -1,7 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0",,
+	"EngineVersion": "5.8.3",
 	"FriendlyName": "RarityPool",
 	"Description": "Graph editor for loot based data",
 	"Category": "Other",
