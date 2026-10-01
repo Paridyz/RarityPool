@@ -46,7 +46,7 @@ public:
 	FGameplayTag Item;
 };
 
-UCLASS()
+UCLASS(BlueprintType)
 class RARITYPOOL_API UDataAsset_RarityPool : public UDataAsset
 {
 	GENERATED_BODY()
